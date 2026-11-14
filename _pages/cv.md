@@ -11,13 +11,13 @@ redirect_from:
 
 **Formação**
 
-2021-2026	Doutorado em Multimeios	
+2021-2026	- Doutorado em Multimeios	-
 Universidade Estadual de Campinas
 
-2018-2021	Mestrado em Multimeios	
+2018-2021	- Mestrado em Multimeios -	
 Universidade Estadual de Campinas
 
-2011-2015	Bacharelado em Comunicação Social	
+2011-2015	- Bacharelado em Comunicação Social	- 
 Universidade Anhembi Morumbi
 
 
