@@ -26,9 +26,9 @@ author:
   avatar           : "IMG_8460.jpg"
   nome             : "Luiz Felipe Rocha Baute"
   pronouns         : # example: "she/her"  
-  bio              : "Pesquisador do"
+  bio              : # "Pesquisador do"
   local            : "São Paulo, Brasil"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "baute@duck.com" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-2058-8580"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Luiz-Felipe-Baute"
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "lfrbaute"
+  github           : # "lfrbaute"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "lfrbaute"
+  bluesky          : # "lfrbaute"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
