@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Olá, me chamo Luiz Felipe"
+title: "Luiz Felipe Rocha Baute"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Desenvolvo pesquisas sobre produções audiovisuais, com ênfase em teoria e história do cinema, televisão e _streaming_ e gêneros cinematográficos e audiovisuais. 
+Olá! 
+Eu desenvolvo pesquisas sobre produções audiovisuais, com ênfase em teoria e história do cinema, televisão e _streaming_ e gêneros cinematográficos e audiovisuais. Aqui estão concentradas informações dos meus trabalhos e projetos de pesquisa atuais.
 
-Publiquei uma série de textos em revistas e periódicos acadêmicos nacionais e internacionais, bem como participei de coletâneas publicadas como livros. Também trabalhei como revisor e produzi entrevistas, palestras e workshops envolvendo minhas pesquisas. 
+De modo geral, publiquei em revistas e periódicos acadêmicos nacionais e internacionais, bem como participei de coletâneas diversas. Também trabalhei como revisor e conduzi entrevistas, palestras e workshops envolvendo pesquisas e produções. 
 
-Fiz meu doutorado e mestrado em Multimeios na Universidade Estadual de Campinas e sou bacharel em Comunicação Social pela Universidade Anhembi Morumbi.
+Fiz meu doutorado e mestrado em Multimeios na Universidade Estadual de Campinas e tenho bacharelado em Comunicação Social pela Universidade Anhembi Morumbi.
