@@ -11,11 +11,15 @@ redirect_from:
 
 **Formação**
 
-2011-2015	Bacharelado em Comunicação Social	Universidade Anhembi Morumbi
+2021-2026	Doutorado em Multimeios	
+Universidade Estadual de Campinas
 
-2018-2021	Mestrado em Multimeios	Universidade Estadual de Campinas
+2018-2021	Mestrado em Multimeios	
+Universidade Estadual de Campinas
 
-2021-2026	Doutorado em Multimeios	Universidade Estadual de Campinas
+2011-2015	Bacharelado em Comunicação Social	
+Universidade Anhembi Morumbi
+
 
 **Experiência profissional** 
 
@@ -66,8 +70,7 @@ _Textos em jornais de notícias/revistas_
 
 BAUTE, Luiz Felipe. “Como as plataformas de streaming afetam a produção audiovisual”. Nexo. 24 de junho de 2021.  
 
-**Principais atividades acadêmicas
-**
+**Principais atividades acadêmicas**
 
 2014: Iniciação Científica na Universidade Anhembi Morumbi. A pesquisa se tornou base para trabalho monográfico intitulado “Galáxia visual em 4 tatames e meio: um estudo acerca da função da direção de arte atrelada a narrativa audiovisual”. 
 
